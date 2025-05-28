@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "judul": "Laskar Pelangi",
+      "pengarang": "Andrea Hirata",
+      "tahun_terbit": "2005",
+      "penerbit": "Bentang Pustaka",
+      "jumlah_halaman": "529",
+      "gambar": "https://id.m.wikipedia.org/wiki/Berkas:Laskar_pelangi_sampul.jpg"
+    },
+    {
+      "id": "2",
+      "judul": "Bumi Manusia",
+      "pengarang": "Pramoedya Ananta Toer",
+      "tahun_terbit": "1980",
+      "penerbit": "Hasta Mitra",
+      "jumlah_halaman": "535",
+      "gambar": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565658920i/1398034.jpg"
+    },
+    {
+      "id": "3",
+      "judul": "Negeri 5 Menara",
+      "pengarang": "Ahmad Fuadi",
+      "tahun_terbit": "2009",
+      "penerbit": "Gramedia Pustaka Utama",
+      "jumlah_halaman": "423",
+      "gambar": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1249749162i/6688121.jpg"
+    },
+    {
+      "id": "4",
+      "judul": "Ayat-Ayat Cinta",
+      "pengarang": "Habiburrahman El Shirazy",
+      "tahun_terbit": "2004",
+      "penerbit": "Republika",
+      "jumlah_halaman": "356",
+      "gambar": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439347437i/969177.jpg"
+    },
+    {
+      "id": "5",
+      "judul": "Perahu Kertas",
+      "pengarang": "Dee Lestari",
+      "tahun_terbit": "2009",
+      "penerbit": "Bentang Pustaka",
+      "jumlah_halaman": "456",
+      "gambar": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356225544i/6765740.jpg"
+    },
+    {
+      "id": "6",
+      "judul": "Sang Pemimpi",
+      "pengarang": "Andrea Hirata",
+      "tahun_terbit": "2006",
+      "penerbit": "Bentang Pustaka",
+      "jumlah_halaman": "287",
+      "gambar": "https://id.m.wikipedia.org/wiki/Sang_Pemimpi#/media/Berkas%3ASang_Pemimpi_sampul.jpg"
+    },
+    {
+      "id": "7",
+      "judul": "Rectoverso",
+      "pengarang": "Dee Lestari",
+      "tahun_terbit": "2008",
+      "penerbit": "Truedee Pustaka",
+      "jumlah_halaman": "312",
+      "gambar": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1222564447i/4815886.jpg"
+    },
+    {
+      "id": "8",
+      "judul": "Dilan 1990",
+      "pengarang": "Pidi Baiq",
+      "tahun_terbit": "2014",
+      "penerbit": "Pastel Books",
+      "jumlah_halaman": "332",
+      "gambar": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442310576i/22037542.jpg"
+    },
+    {
+      "id": "9",
+      "judul": "5 cm",
+      "pengarang": "Donny Dhirgantoro",
+      "tahun_terbit": "2005",
+      "penerbit": "Grasindo",
+      "jumlah_halaman": "245",
+      "gambar": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472231689i/1499340.jpg"
+    },
+    {
+      "id": "10",
+      "judul": "Supernova",
+      "pengarang": "Dee Lestari",
+      "tahun_terbit": "2001",
+      "penerbit": "Truedee Pustaka",
+      "jumlah_halaman": "219",
+      "gambar": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1249473779i/994156.jpg"
+    }
+  ]
+}
